@@ -1,0 +1,16 @@
+/runs
+/data
+/checkpoints
+/output
+.DS_Store
+*.pth
+.vscode/
+__pycache__/
+/nnunet
+/nnUnet*
+/networks/unet/
+/networks/runs/
+/experiment_runs/
+process_results.ipynb
+main.ipynb
+data_visualisation.ipynb

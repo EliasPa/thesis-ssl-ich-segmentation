@@ -1,0 +1,17 @@
+name: image-segmentation
+dependencies:
+  - numpy
+  - python=3.7.3
+  - pytorch=1.8.0
+  - pillow
+  - nilearn
+  - nibabel
+  - tensorboard
+  - tensorboard-plugin-wit
+  - tqdm
+  - torchaudio
+  - torchvision=0.9.0
+  - matplotlib
+  - scikit-image
+  - scikit-learn
+  - scipy
