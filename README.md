@@ -7,6 +7,4 @@ This repository contains semi-supervised segmentation models for my Master's the
 3. Deep semi-supervised segmentation with weight-averaged consistency targets: https://arxiv.org/pdf/1807.04657.pdf
 4. FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence: https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf
 
-Some code has been incorporated from third party repositories. These are indicated at the top of the file, or function as comments, or as License files.
-
-Please note that it is not allowed to use this code for commercial purposes.
+Some code has been incorporated from third party repositories. These are indicated at the top of the file, or function as comments, or as License files. Please note that it is not allowed to use the code for commercial purposes unless otherwise indicated by comments or Licence files.
