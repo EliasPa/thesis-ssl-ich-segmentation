@@ -9,3 +9,4 @@ This repository contains semi-supervised segmentation models for my Master's the
 
 Some code has been incorporated from third party repositories. These are indicated at the top of the file, or function as comments, or as License files.
 
+Please note that it is not allowed to use this code for commercial purposes.
